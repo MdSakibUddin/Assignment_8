@@ -1,0 +1,98 @@
+[
+    {
+        "name": "dinajpuri goru",
+        "weight": "100kg",
+        "age": "9 months",
+        "price": 51000,
+        "img": "https://www.clickbd.com/global/classified/item_img/801213_0_original.jpg",
+        "id": 1
+    },
+    {
+        "name": "Chondonaish er Raja",
+        "weight": "120kg",
+        "age": "10 months",
+        "price": 72000.20,
+        "img": "https://qph.fs.quoracdn.net/main-qimg-6689e0e5be0955c978258e17bc8c6644",
+        "id": 2
+    },
+    {
+        "name": "Nepal er pride",
+        "weight": "131kg",
+        "age": "1 year",
+        "price": 100000.10,
+        "img": "https://i.playboard.app/p/AAUvwni9uGQaDuoDQ6bgUqjCx07uQitDC6eZjEF5w_jCFuQ/default.jpg",
+        "id": 3
+    },
+    {
+        "name": "Lal shahi",
+        "weight": "115kg",
+        "age": "7 months",
+        "price": 80000,
+        "img": "https://anondomela.shop/wp-content/uploads/2021/07/sabaah-13-raja-2.jpg",
+        "id": 4
+    },
+    {
+        "name": "manikganj er Raja",
+        "weight": "125kg",
+        "age": "1.1 year",
+        "price": 100000,
+        "img": "https://www.falgunishop.com/public/img/products/cow_7116547c96ccebbfd1aca822e91f5e4f0_lg.jpg",
+        "id": 5
+    },
+    {
+        "name": "indian Bull",
+        "weight": "135kg",
+        "age": "1.2 year",
+        "price": 120000,
+        "img": "https://www.falgunishop.com/img/products/cow_df6ba44b48f9ab558a9b25265b7294e60_lg.jpg",
+        "id": 6
+    },
+    {
+        "name": "Deshi pathan",
+        "weight": "185kg",
+        "age": "1.7 year",
+        "price": 150000,
+        "img": "https://agritech.tnau.ac.in/ta/animal_husbandry/images/sahiwal_cow.jpg",
+        "id": 7
+    },
+    {
+        "name": "shariatpur er Badshah",
+        "weight": "210kg",
+        "age": "2.2 year",
+        "price": 180000,
+        "img": "https://www.pngfind.com/pngs/m/29-297304_bull-cow-png-transparent-png.png",
+        "id": 8
+    },
+    {
+        "name": "deshi tuktuk",
+        "weight": "210kg",
+        "age": "2.2 year",
+        "price": 185000,
+        "img": "https://i.pinimg.com/564x/0a/3a/9f/0a3a9f3f985ccfbf398c345807117cf8.jpg",
+        "id": 9
+    },
+    {
+        "name": "punjabi badshah",
+        "weight": "95kg",
+        "age": "7 months",
+        "price": 48000,
+        "img": "https://www.pikpng.com/pngl/m/20-208742_cow-png-image-indian-cow-images-png-clipart.png",
+        "id": 10
+    },
+    {
+        "name": "American Brahma",
+        "weight": "125kg",
+        "age": "11 months",
+        "price": 80000,
+        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Bangladeshi_goru_%2812%29.jpg/800px-Bangladeshi_goru_%2812%29.jpg",
+        "id": 11
+    },
+    {
+        "name": "deshi tuktuk",
+        "weight": "230kg",
+        "age": "2 year",
+        "price": 220000,
+        "img": "https://media-eng.dhakatribune.com/uploads/2019/07/jamalpur-eid-on-the-occasion-of-the-eid-pic-1-27-07-1564327592615.jpg",
+        "id": 12
+    }
+]
